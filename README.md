@@ -6,6 +6,13 @@ Double click `*.reg` or execute with registry editor(`regedit.exe`).
 
 ## Registry
 
+### CMD.EXE HERE
+
+Open `cmd.exe` and change directory to the target path.
+
+- [.\registry\directory\cmd-here.reg](.\registry\directory\cmd-here.reg)
+- [.\registry\directory\background\cmd-here.reg](.\registry\directory\background\cmd-here.reg)
+
 ### COPY PATH
 
 Copy full path of the target as Windows path format.

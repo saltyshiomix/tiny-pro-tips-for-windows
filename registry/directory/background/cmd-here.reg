@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\directory\background\shell\cmd-here]
+@="CMD.EXE HERE"
+"Icon"="cmd.exe"
+
+[HKEY_CLASSES_ROOT\directory\background\shell\cmd-here\command]
+@="cmd.exe /K \"cd /d %v\""
